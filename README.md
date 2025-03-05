@@ -107,3 +107,5 @@ PhySecGuard is released under the MIT License. See the LICENSE file for more det
 - [Setuptools Documentation](https://setuptools.readthedocs.io/en/latest/)
 - [PyTorch Documentation](https://pytorch.org/docs/stable/index.html)
 - [Sphinx Documentation](https://www.sphinx-doc.org/en/master/)
+
+  © **Copyright Under MIT Liscence** 2025-2026  by Resilient Energy Systems Lab (RESLab), Texas A&M Engineering Experiment Station (TEES), and Texas A&M University.
